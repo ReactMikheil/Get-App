@@ -1,0 +1,43 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+  font-style: normal;
+}
+
+.nav-item {
+  font-size: 18px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.section_1 {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.btn {
+  background-color: #2cb5b4 !important;
+  box-shadow: 2px 2px 4px rgb(195, 195, 195);
+}
+
+.section_1 {
+  background-color: #cff3f3;
+}
+
+a {
+  font-size: 14px !important;
+  color: #2cb5b4 !important;
+}
+
+a:hover {
+  background-color: #2cb5b4;
+  border-radius: 5px;
+  color: white !important;
+}
+
+.add-btn:hover {
+  background-color: #2cb5b4;
+  color: white !important;
+  border-radius: 5px;
+}
+
+.smartphone {
+  width: 280.4px !important;
+}
